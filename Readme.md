@@ -1,6 +1,8 @@
 This is a solution for coding assignment from Wallethub , which sufficed to advance to the next job interview round.
 
 https://wallethub.com/
+
+
 https://stackoverflow.com/jobs/companies/wallethub
 
 This program assumes a running MySQL instance at localhost:13306.
