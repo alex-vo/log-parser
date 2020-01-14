@@ -1,3 +1,5 @@
+Job Interview test for wallethub.com
+
 This is a solution for coding assignment from Wallethub , which sufficed to advance to the next job interview round.
 
 https://wallethub.com/
